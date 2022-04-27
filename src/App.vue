@@ -31,4 +31,11 @@ export default {
 }
 </script>
 
+<style scoped>
+  @import './assets/font-family/fonts.css';
+  body{
+    font-family: "CocoGothic";
+  }
+</style>
+
 
